@@ -7,7 +7,7 @@ export default function Awards() {
         <div className="row  ">
           {/* Left Image */}
           <div className=" col-12 col-lg-6">
-            <img src={largestBroker} alt="Award Image" />
+            <img style={{width:"90%"}} src={largestBroker} alt="Award Image" />
           </div>
           {/* Right Content */}
           <div className=" col-12 col-lg-6 mt-5 mt-lg-3">
