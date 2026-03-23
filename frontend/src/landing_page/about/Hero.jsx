@@ -60,8 +60,8 @@ export default function About() {
       </div>
 
       {/* People Section */}
-      <div className="text-center mt-5c ">
-        <h3 className="py-5">People</h3>
+      <div className="text-center mt-5 ">
+        <h3 className="py-4">People</h3>
       </div>
 
       <div className="row  mt-5 ">

@@ -49,7 +49,7 @@ export default function Stats() {
               Explore our products →
             </a>
             <a className="link-primary link-underline-opacity-0 ms-5 " href="">
-              Try kite
+              Try kite →
             </a>
             </div>
           </div>
