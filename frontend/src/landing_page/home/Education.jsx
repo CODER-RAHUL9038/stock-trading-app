@@ -3,13 +3,13 @@ export default function Education() {
   return (
     <div>
       <div className="container  py-5">
-        <div className="row  ">
+        <div className="row text-center ">
           {/* Left */}
-          <div className="col-6">
+          <div className="col-lg-6">
             <img style={{width:"80%"}} src={education} alt="Varsity Image" />
           </div>
           {/* Right */}
-          <div className="col-6">
+          <div className="col-lg-6">
             <div>
               <h2>Free and open market education</h2>
 

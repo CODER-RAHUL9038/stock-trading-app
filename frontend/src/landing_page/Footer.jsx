@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer style={{ backgroundColor: "#FBFBFB" }}>
       <div className="container-fluid py-5  border-top text-center">
-        <div className="row justify-content-center">
+        <div className="row justify-content-center ">
           {/* COLUMN 1 - LOGO + SOCIAL */}
           <div className="col-lg-3 col-md-6 mb-4">
             <img

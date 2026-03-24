@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <div className="container p-5 px-4">
+    <div className="container p-5 px-4" style={{marginTop:"80px"}}>
       {/* Hero Section */}
       <div className="text-center my-5">
         <h3 className="fw-normal pb-5">
@@ -18,7 +18,7 @@ export default function About() {
         style={{ marginTop: "50px" }}
       >
         {/* Left */}
-        <div className="col-md-5">
+        <div className="col-lg-5">
           <p>
             We started Quantify with a clear vision — to break the barriers that
             traders and investors in India face every day, from high costs and
@@ -38,7 +38,7 @@ export default function About() {
         </div>
 
         {/* Right */}
-        <div className="col-md-5">
+        <div className="col-lg-5">
           <p>
             Today, Quantify empowers users with data-driven insights, intuitive
             design, and a seamless experience that helps them make confident
@@ -64,21 +64,21 @@ export default function About() {
         <h3 className="py-4">People</h3>
       </div>
 
-      <div className="row  mt-5 ">
+      <div className="row  mt-4 ">
         {/* Image */}
-        <div className="col-md-6 text-center">
+        <div className="col-lg-6 text-center">
           <img
             src="images/rahul1.png"
             alt="Founder"
             className="img-fluid rounded-circle"
-            style={{ width: "350px", height: "350px", objectFit: "cover" }}
+            style={{ width: "360px", height: "360px", objectFit: "cover" }}
           />
           <h5 className="mt-4 fs-3 text-muted">Rahul Shaw</h5>
           <p>Founder, CEO</p>
         </div>
 
         {/* Content */}
-        <div className="col-md-6">
+        <div className="col-lg-6 mt-4">
           <p>
             Rahul Shaw is building Quantify to overcome the challenges he faced
             while learning and exploring trading and technology. Starting from

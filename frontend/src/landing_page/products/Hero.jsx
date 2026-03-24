@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <div
       className="container px-3 border-bottom  "
-      style={{ paddingBottom: "50px", marginTop: "80px" }}
+      style={{ paddingBottom: "50px", marginTop: "150px" }}
     >
       {/* Text Section */}
       <div className="text-center mt-5">

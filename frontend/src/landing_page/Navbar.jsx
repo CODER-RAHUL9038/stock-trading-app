@@ -16,7 +16,7 @@ export default function Navbar() {
   
   return (
     <div>
-      <nav class="navbar  navbar-expand-lg w-full  border-bottom py-2 fw-medium ">
+      <nav class="navbar  navbar-expand-lg w-full fixed-top  border-bottom py-2 fw-medium bg-white ">
         <div class="container-fluid ">
           <Link class="navbar-brand  ms-5" to="/">
             <img
@@ -38,7 +38,7 @@ export default function Navbar() {
           </button>
           <div class="collapse navbar-collapse  " id="navbarSupportedContent">
             <ul
-              class="navbar-nav ms-auto text-center  mb-2 mt-4 mt-md-0 mb-lg-0 "
+              class="navbar-nav ms-auto text-center  mb-2 mt-4 mt-md-0 mb-lg-0 fs-5"
               onClick={closeNavbar}
             >
               <li class="nav-item  px-3">
