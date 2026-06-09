@@ -81,4 +81,4 @@ The application will be available at `http://localhost:5173`.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Built with ❤️ by [Your Name/Team]
+Built with ❤️ by [Rahul Shaw](https://github.com/CODER-RAHUL9038)
